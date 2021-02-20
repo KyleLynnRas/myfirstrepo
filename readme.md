@@ -56,6 +56,10 @@ git log --oneline
 
 - to see list of remotes `git remote -v`
 
+  - here you can see all remotes, and their remote names
+
 - to push code `git push <remoteName> <branchName>`
 
 - to see what branch currently on `git branch`
+
+- to remove a remote `git remote rm <remoteName>`
