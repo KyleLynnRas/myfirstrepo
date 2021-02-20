@@ -49,3 +49,13 @@ git log
 ```
 git log --oneline
 ```
+
+## Working with remotes (enterprise, github, gitlab, bitbucket)
+
+- to add a remote `git remote add <name> <url>`
+
+- to see list of remotes `git remote -v`
+
+- to push code `git push <remoteName> <branchName>`
+
+- to see what branch currently on `git branch`
