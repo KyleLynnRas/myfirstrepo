@@ -50,6 +50,8 @@ git log
 git log --oneline
 ```
 
+---
+
 ## Working with remotes (enterprise, github, gitlab, bitbucket)
 
 - to add a remote `git remote add <name> <url>`
